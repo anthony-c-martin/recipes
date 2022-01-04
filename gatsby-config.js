@@ -1,12 +1,12 @@
 module.exports = {
   siteMetadata: {
-    title: `Misc Blog`,
+    title: `Ant's Recipes`,
     author: {
       name: `Anthony Martin`,
-      summary: `- developer at Microsoft, living in Chapel Hill, NC.`,
+      summary: `- some guy.`,
     },
-    description: `Blog to put down miscellaneous thoughts.`,
-    siteUrl: `https://anthonymart.in/`,
+    description: `My personal recipes.`,
+    siteUrl: `https://recipesq6ccvacpi7i3a.z20.web.core.windows.net/`,
     social: { },
   },
   plugins: [
@@ -103,6 +103,7 @@ module.exports = {
               }
             `,
             output: "/rss.xml",
+            title: "Ant's Recipes RSS feed",
           },
         ],
       },
@@ -120,7 +121,6 @@ module.exports = {
       },
     },
     `gatsby-plugin-react-helmet`,
-    `gatsby-plugin-gatsby-cloud`,
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
