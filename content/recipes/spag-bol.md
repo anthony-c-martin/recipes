@@ -1,3 +1,8 @@
+---
+title: Spaghetti Bolognese
+description: Spaghetti Bolognese
+---
+
 ## Ingredients
 * 1lb beef mince
 * 1 large white onion

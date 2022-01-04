@@ -1,3 +1,8 @@
+---
+title: Jerk Chicken
+description: Jerk Chicken
+---
+
 ## Ingredients
 * One 3 1/2 lb chicken (3lb of chicken breasts may be used if preferred)
 * 6 sliced scotch bonnet peppers (jalapenos may be used if scotch bonnet peppers are unavailable)

@@ -1,3 +1,8 @@
+---
+title: Sausage Rolls
+description: Sausage Rolls
+---
+
 ## Ingredients
 * 1 (16 ounce) package pork sausagemeat
 * 1 (17.25 ounce) package frozen puff pastry sheets, thawed

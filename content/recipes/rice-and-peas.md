@@ -1,3 +1,8 @@
+---
+title: Rice & Peas
+description: Rice & Peas
+---
+
 ## Ingredients
 * 3 cups of rice
 * 1 can of tinned or 1 cup of fresh red peas (either kidney beans or pigeon peas)

@@ -1,4 +1,8 @@
-# Roast carrots & parsnips with honey & mustard
+---
+title: Roast carrots & parsnips
+description: Roast carrots & parsnips
+---
+
 Root vegetables respond very well to a little extra TLC come the big day. This recipe results in crisp, caramelised edges and the deliciously sticky glaze is no more demanding than a salad dressing
 
 ## Ingredients

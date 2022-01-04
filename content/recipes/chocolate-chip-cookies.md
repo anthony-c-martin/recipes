@@ -1,3 +1,8 @@
+---
+title: Chocolate Chip Cookies
+description: Chocolate Chip Cookies
+---
+
 ## Ingredients
 * 1-3/4 cups unbleached all-purpose flour
 * 1/2 teaspoon baking soda
