@@ -156,3 +156,5 @@ module enableHttps 'cdn-https.bicep' = {
     location: location
   }
 }
+
+output stgAccName string = storage.name

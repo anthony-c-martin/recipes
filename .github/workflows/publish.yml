@@ -39,11 +39,10 @@ jobs:
             --resource-group recipes \
             --name recipes-deploy \
             --template-file deploy/main.bicep \
-            --query "[properties.outputs.stgAccName.value, properties.outputs.stgAccKey.value]" \
+            --query "[properties.outputs.stgAccName.value]" \
             --output tsv)
           
           STG_ACC_NAME=$(awk 'NR == 1' <<<$OUTPUT)
-          STG_ACC_KEY=$(awk 'NR == 2' <<<$OUTPUT)
 
           az storage blob service-properties update \
             --account-name $STG_ACC_NAME \
@@ -53,6 +52,5 @@ jobs:
           
           az storage blob sync \
             --account-name $STG_ACC_NAME \
-            --account-key $STG_ACC_KEY \
             --source public \
             --container "\$web"

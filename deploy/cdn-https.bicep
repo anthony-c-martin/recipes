@@ -3,7 +3,7 @@ param cdnEndpointName string
 param cdnCustomDomainName string
 param location string
 
-resource dnsIdentity 'Microsoft.ManagedIdentity/userAssignedIdentities@2018-11-30' = {
+resource dsIdentity 'Microsoft.ManagedIdentity/userAssignedIdentities@2018-11-30' = {
   name: '${cdnProfileName}-ds-identity'
   location: location
 }
@@ -17,7 +17,7 @@ module roleAssignments 'cdn-role.bicep' = [for roleDefinitionId in roleDefinitio
   name: 'cdn-role-${roleDefinitionId}'
   params: {
     cdnName: cdnProfileName
-    principalId: dnsIdentity.properties.principalId
+    principalId: dsIdentity.properties.principalId
     roleDefinitionId: roleDefinitionId
   }
 }]
@@ -29,12 +29,12 @@ resource enableHttpsForCustomDomain 'Microsoft.Resources/deploymentScripts@2020-
   identity: {
     type: 'UserAssigned'
     userAssignedIdentities: {
-      '${dnsIdentity.id}': {}
+      '${dsIdentity.id}': {}
     }
   }
   properties: {
-    azCliVersion: '2.43.0'
+    azCliVersion: '2.42.0'
     retentionInterval: 'PT1H'
-    scriptContent: 'az cdn custom-domain enable-https --reource-group ${resourceGroup().name} --name ${cdnCustomDomainName} --profile-name ${cdnProfileName} --endpoint-name ${cdnEndpointName}'
+    scriptContent: 'az cdn custom-domain enable-https --resource-group ${resourceGroup().name} --name ${cdnCustomDomainName} --profile-name ${cdnProfileName} --endpoint-name ${cdnEndpointName}'
   }
 }
