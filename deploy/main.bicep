@@ -1,8 +1,16 @@
-var domainName = 'ant.ninja'
-var subDomainName = 'recipes'
-var fullSubDomainName = 'recipes.${domainName}'
-#disable-next-line no-loc-expr-outside-params
-var location = resourceGroup().location
+@description('The base domain name (e.g. "foo.com")')
+param domainName string
+
+@description('The child domain name (e.g. "bar")')
+param subDomainName string
+
+@description('The name of the resource group where the dnsZone resource exists')
+param dnsResourceGroup string
+
+@description('The location to deploy non-global resources')
+param location string = resourceGroup().location
+
+var fullSubDomainName = '${subDomainName}.${domainName}'
 
 resource storage 'Microsoft.Storage/storageAccounts@2022-09-01' = {
   name: '${subDomainName}${uniqueString(resourceGroup().id)}'
@@ -128,6 +136,7 @@ resource cdnEnpoint 'Microsoft.Cdn/profiles/endpoints@2021-06-01' = {
 
 module dns 'dns.bicep' = {
   name: 'dns'
+  scope: resourceGroup(dnsResourceGroup)
   params: {
     cdnEndpointFqdn: cdnEnpoint.properties.hostName
     cdnEndpointId: cdnEnpoint.id

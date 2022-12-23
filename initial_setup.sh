@@ -10,6 +10,7 @@ subId=${2:?"Missing subscriptionId. ${usage}"}
 repoOwner="anthony-c-martin"
 repoName="recipes"
 rgName="recipes"
+dnsRgName="dns"
 rgLocation="East US 2"
 
 az account set -n "$subId"
@@ -23,7 +24,8 @@ appOid=$(echo $appCreate | jq -r '.id')
 
 spCreate=$(az ad sp create --id $appId)
 spId=$(echo $spCreate | jq -r '.id')
-az role assignment create --role owner --subscription $subId --assignee-object-id $spId --assignee-principal-type ServicePrincipal --scope /subscriptions/$subId/resourceGroups/$rgName
+az role assignment create --role 'Owner' --subscription $subId --assignee-object-id $spId --assignee-principal-type ServicePrincipal --scope /subscriptions/$subId/resourceGroups/$rgName
+az role assignment create --role 'Owner' --subscription $subId --assignee-object-id $spId --assignee-principal-type ServicePrincipal --scope /subscriptions/$subId/resourceGroups/$dnsRgName
 
 repoSubject="repo:$repoOwner/$repoName:ref:refs/heads/main"
 az rest --method POST --uri "https://graph.microsoft.com/beta/applications/$appOid/federatedIdentityCredentials" --body '{"name":"'$repoName'","issuer":"https://token.actions.githubusercontent.com","subject":"'$repoSubject'","description":"GitHub OIDC Connection","audiences":["api://AzureADTokenExchange"]}'

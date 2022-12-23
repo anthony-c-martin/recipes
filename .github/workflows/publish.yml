@@ -39,6 +39,10 @@ jobs:
             --resource-group recipes \
             --name recipes-deploy \
             --template-file deploy/main.bicep \
+            --parameters \
+                domainName=ant.ninja \
+                subDomainName=recipes \
+                dnsResourceGroup=dns \
             --query "[properties.outputs.stgAccName.value]" \
             --output tsv)
           

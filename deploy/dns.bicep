@@ -3,9 +3,8 @@ param subDomainName string
 param cdnEndpointId string
 param cdnEndpointFqdn string
 
-resource dnsZone 'Microsoft.Network/dnsZones@2018-05-01' = {
+resource dnsZone 'Microsoft.Network/dnsZones@2018-05-01' existing = {
   name: domainName
-  location: 'global'
 
   resource cname 'CNAME' = {
     name: subDomainName
