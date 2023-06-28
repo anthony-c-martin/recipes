@@ -12,7 +12,7 @@ description: White Chocolate & Orange Mousse Cake
 * 300ml full-fat Greek yogurt
 
 ## Instructions
-1. Lightly oil a shallow 20.5cm (5in) round cake tin. Line with baking parchment.
+1. Lightly oil a shallow 20.5cm (8in) round cake tin. Line with baking parchment.
 1. Break the chocolate into pieces and put into a large bowl with half the cream. Bring a large pan of boiling water to the boil, remove from heat and sit the bowl of chocolate and cream on top, making sure the base of the bowl doesn't touch the water.
 1. Leave for 20-30 min until the chocolate has melted. Don't stir; just leave it to melt.
 1. Meanwhile, put the zest and liqueur into a small bowl. Set aside to soak. Whip the remaining cream until it just holds its shape.
