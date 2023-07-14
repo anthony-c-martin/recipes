@@ -42,7 +42,8 @@ resource cdnEnpoint 'Microsoft.Cdn/profiles/endpoints@2021-06-01' = {
   location: 'global'
   properties: {
     originHostHeader: storageHostname
-    isHttpAllowed: false
+    // we enforce an http redirect with the rules engine, but this must be set to true for it to work
+    isHttpAllowed: true
     isHttpsAllowed: true
     isCompressionEnabled: true
     queryStringCachingBehavior: 'IgnoreQueryString'
