@@ -27,7 +27,7 @@
     "react-dom": "^18.1.0"
   },
   "devDependencies": {
-    "prettier": "^3.2.4"
+    "prettier": "^3.2.5"
   },
   "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
   "keywords": [
