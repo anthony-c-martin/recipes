@@ -32,7 +32,7 @@ jobs:
         npm run build
 
     - name: Deploy Azure
-      uses: azure/CLI@v1
+      uses: azure/CLI@v2
       with:
         azcliversion: 2.47.0
         inlineScript: |
