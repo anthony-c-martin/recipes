@@ -41,7 +41,7 @@ jobs:
         name: recipes
         scope: resourceGroup
         subscription-id: ${{ secrets.AZURE_SUBSCRIPTION_ID }}
-        resource-group: recipes
+        resource-group-name: recipes
         parameters-file: deploy/main.bicepparam
         action-on-unmanage-resources: delete
         deny-settings-mode: denyWriteAndDelete
