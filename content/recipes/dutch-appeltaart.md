@@ -5,27 +5,27 @@ description: Dutch Appeltaart
 
 ## Ingredients
 ### Apples
-4 pounds Golden Delicious apples, peeled, cored, and cut into ¼-inch-thick wedges
-¼ cup packed (1¾ ounces) dark brown sugar
-½ cup golden raisins (optional)
-1 tablespoon cornstarch
-1 tablespoon lemon juice
-1 teaspoon ground cinnamon
-¼ teaspoon ground ginger
-¼ teaspoon ground cardamom
-¼ teaspoon ground coriander
-⅛ teaspoon ground nutmeg
-Pinch table salt
+* 4 pounds Golden Delicious apples, peeled, cored, and cut into ¼-inch-thick wedges
+* ¼ cup packed (1¾ ounces) dark brown sugar
+* ½ cup golden raisins (optional)
+* 1 tablespoon cornstarch
+* 1 tablespoon lemon juice
+* 1 teaspoon ground cinnamon
+* ¼ teaspoon ground ginger
+* ¼ teaspoon ground cardamom
+* ¼ teaspoon ground coriander
+* ⅛ teaspoon ground nutmeg
+* Pinch table salt
 
 ### Crust
-2½ cups (12½ ounces) all-purpose flour
-¾ cup packed (5¼ ounces) dark brown sugar
-1 tablespoon baking powder
-½ teaspoon table salt
-1 large egg, beaten
-14 tablespoons unsalted butter, melted and hot
-1 tablespoon water
-Whipped cream or vanilla ice cream
+* 2½ cups (12½ ounces) all-purpose flour
+* ¾ cup packed (5¼ ounces) dark brown sugar
+* 1 tablespoon baking powder
+* ½ teaspoon table salt
+* 1 large egg, beaten
+* 14 tablespoons unsalted butter, melted and hot
+* 1 tablespoon water
+* Whipped cream or vanilla ice cream
 
 ## Instructions
 ### Apples
