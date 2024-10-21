@@ -46,7 +46,8 @@ jobs:
         action-on-unmanage-resources: delete
         deny-settings-mode: denyWriteAndDelete
         deny-settings-excluded-actions: |
-          Microsoft.Storage/storageAccounts/listKeys/action
+          Microsoft.Storage/storageAccounts/listKeys/action,
+          Microsoft.ManagedIdentity/userAssignedIdentities/assign/action
     
     - name: Upload Site
       uses: azure/CLI@v2
