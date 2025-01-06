@@ -67,11 +67,7 @@ resource ruleSet 'Microsoft.Cdn/profiles/rulesets@2024-06-01-preview' = {
 resource customDomainSecret 'Microsoft.Cdn/profiles/secrets@2024-06-01-preview' = {
   parent: cdnProfile
   name: domainResourceName
-  properties: {
-    parameters: {
-      type: 'ManagedCertificate'
-    }
-  }
+  properties: {}
 }
 
 resource customDomain 'Microsoft.Cdn/profiles/customdomains@2024-06-01-preview' = {
