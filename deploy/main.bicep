@@ -33,8 +33,7 @@ module dns 'dns.bicep' = {
   name: 'dns'
   scope: resourceGroup(dnsResourceGroup)
   params: {
-    cdnEndpointFqdn: cdnEnpoint.properties.hostName
-    cdnEndpointId: cdnEnpoint.id
+    cdnEndpointFqdn: afdEndpoint.properties.hostName
     domainName: domainName
     subDomainName: subDomainName
   }
