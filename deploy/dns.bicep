@@ -1,5 +1,6 @@
 param domainName string
 param subDomainName string
+param cdnHostname string
 param cdnValidationToken string
 
 resource dnsZone 'Microsoft.Network/dnsZones@2018-05-01' existing = {
@@ -9,6 +10,9 @@ resource dnsZone 'Microsoft.Network/dnsZones@2018-05-01' existing = {
     name: subDomainName
     properties: {
       TTL: 3600
+      CNAMERecord: {
+        cname: cdnHostname
+      }
     }
   }
 
