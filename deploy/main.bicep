@@ -62,7 +62,7 @@ resource afdEndpoint 'Microsoft.Cdn/profiles/afdendpoints@2024-06-01-preview' = 
 
 resource ruleSet 'Microsoft.Cdn/profiles/rulesets@2024-06-01-preview' = {
   parent: cdnProfile
-  name: domainResourceName
+  name: 'default'
 }
 
 resource customDomainSecret 'Microsoft.Cdn/profiles/secrets@2024-06-01-preview' = {
