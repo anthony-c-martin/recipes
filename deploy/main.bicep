@@ -29,16 +29,6 @@ resource storage 'Microsoft.Storage/storageAccounts@2022-09-01' = {
 
 var storageHostname = replace(replace(storage.properties.primaryEndpoints.web, 'https://', ''), '/', '')
 
-module dns 'dns.bicep' = {
-  name: 'dns'
-  scope: resourceGroup(dnsResourceGroup)
-  params: {
-    cdnEndpointFqdn: afdEndpoint.properties.hostName
-    domainName: domainName
-    subDomainName: subDomainName
-  }
-}
-
 resource cdnProfile 'Microsoft.Cdn/profiles@2024-06-01-preview' = {
   name: subDomainName
   location: 'Global'
@@ -64,16 +54,6 @@ resource ruleSet 'Microsoft.Cdn/profiles/rulesets@2024-06-01-preview' = {
   name: 'default'
 }
 
-resource customDomainSecret 'Microsoft.Cdn/profiles/secrets@2024-06-01-preview' = {
-  parent: cdnProfile
-  name: domainResourceName
-  properties: {
-    parameters: {
-      type: 'ManagedCertificate'
-    }
-  }
-}
-
 resource customDomain 'Microsoft.Cdn/profiles/customdomains@2024-06-01-preview' = {
   parent: cdnProfile
   name: domainResourceName
@@ -85,9 +65,16 @@ resource customDomain 'Microsoft.Cdn/profiles/customdomains@2024-06-01-preview' 
       cipherSuiteSetType: 'TLS12_2022'
     }
   }
-  dependsOn: [
-    dns
-  ]
+}
+
+module dns 'dns.bicep' = {
+  name: 'dns'
+  scope: resourceGroup(dnsResourceGroup)
+  params: {
+    domainName: domainName
+    subDomainName: subDomainName
+    cdnValidationToken: customDomain.properties.validationProperties.validationToken
+  }
 }
 
 resource originGroup 'Microsoft.Cdn/profiles/origingroups@2024-06-01-preview' = {
