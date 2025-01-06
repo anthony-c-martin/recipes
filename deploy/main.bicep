@@ -83,9 +83,6 @@ resource customDomain 'Microsoft.Cdn/profiles/customdomains@2024-06-01-preview' 
       certificateType: 'ManagedCertificate'
       minimumTlsVersion: 'TLS12'
       cipherSuiteSetType: 'TLS12_2022'
-      secret: {
-        id: customDomainSecret.id
-      }
     }
   }
   dependsOn: [
