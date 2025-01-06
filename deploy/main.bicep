@@ -148,7 +148,7 @@ resource enforceHttpsRule 'Microsoft.Cdn/profiles/rulesets/rules@2024-06-01-prev
   }
 }
 
-resource profiles_recipes_name_profiles_recipes_name_ant_ninja_profiles_recipes_name_antninja 'Microsoft.Cdn/profiles/afdendpoints/routes@2024-06-01-preview' = {
+resource afdRoute 'Microsoft.Cdn/profiles/afdendpoints/routes@2024-06-01-preview' = {
   parent: afdEndpoint
   name: domainResourceName
   properties: {
