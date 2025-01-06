@@ -1,6 +1,5 @@
 param domainName string
 param subDomainName string
-param cdnEndpointId string
 param cdnEndpointFqdn string
 
 resource dnsZone 'Microsoft.Network/dnsZones@2018-05-01' existing = {
@@ -10,9 +9,6 @@ resource dnsZone 'Microsoft.Network/dnsZones@2018-05-01' existing = {
     name: subDomainName
     properties: {
       TTL: 3600
-      targetResource: {
-        id: cdnEndpointId
-      }
     }
   }
 
