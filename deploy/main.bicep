@@ -73,7 +73,7 @@ module dns 'dns.bicep' = {
   params: {
     domainName: domainName
     subDomainName: subDomainName
-    cdnHostname: afdEndpoint.properties.hostName
+    cdnEndpointResourceId: afdEndpoint.id
     cdnValidationToken: customDomain.properties.validationProperties.validationToken
   }
 }
