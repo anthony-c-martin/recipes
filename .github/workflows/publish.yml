@@ -34,7 +34,7 @@ jobs:
 
     - name: Deploy Infra
       id: deploy
-      uses: azure/bicep-deploy@v1
+      uses: azure/bicep-deploy@v2
       with:
         type: deploymentStack
         operation: create
