@@ -1,6 +1,6 @@
 ---
-title: Potato and Leek Soup
-description: Potato and Leek Soup
+title: Leek and Potato Soup
+description: Leek and Potato Soup
 ---
 
 ## Ingredients
