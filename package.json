@@ -10,7 +10,7 @@
   "dependencies": {
     "@fontsource-variable/montserrat": "^5.2.5",
     "@fontsource/merriweather": "^5.2.6",
-    "gatsby": "^5.14.2",
+    "gatsby": "^5.14.3",
     "gatsby-plugin-feed": "^5.14.0",
     "gatsby-plugin-image": "^3.14.0",
     "gatsby-plugin-manifest": "^5.14.0",
