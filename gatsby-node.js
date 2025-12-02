@@ -92,15 +92,9 @@ exports.createSchemaCustomization = ({ actions }) => {
   // This way the "MarkdownRemark" queries will return `null` even when no
   // recipes are stored inside "content/recipes" instead of returning an error
   createTypes(`
-    type SiteSiteMetadata {
-      author: Author
+    type SiteMetadata {
       siteUrl: String
       social: Social
-    }
-
-    type Author {
-      name: String
-      summary: String
     }
 
     type Social {

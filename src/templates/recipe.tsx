@@ -20,7 +20,6 @@ const RecipeTemplate: React.FC<Props> = ({ data }) => {
         <section
           dangerouslySetInnerHTML={{ __html: post.html }}
         />
-        <hr />
         <footer>
         </footer>
       </article>
