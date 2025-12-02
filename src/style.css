@@ -2,6 +2,7 @@
   text-decoration: none;
   color: inherit;
   flex: 1 1 18rem;
+  max-width: 36rem;
   transition: background-color 0.2s ease-in-out;
   &:hover {
     background-color: var(--bs-primary-bg-subtle);
