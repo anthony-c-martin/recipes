@@ -5,23 +5,26 @@ description: A fiery, tomato-rich curry that brings the heat and complexity of y
 ---
 
 ## Ingredients
+
 ### The spice mix
-* 1 tsp indian restaurant spice mix or curry powder – recipe link below
-* 2 tsp hot madras curry powder or use more indian restaurant mix powder if you don’t have any madras curry powder
-* 1 tsp kashmiri chili powder or 1/4 tsp cayenne mixed with 3/4 tsp paprika
-* 1/2 tsp kasoor methi – dried fenugreek leaves
-* 1/2 tsp kosher salt
+
+- 1 tsp indian restaurant spice mix or curry powder – recipe link below
+- 2 tsp hot madras curry powder or use more indian restaurant mix powder if you don’t have any madras curry powder
+- 1 tsp kashmiri chili powder or 1/4 tsp cayenne mixed with 3/4 tsp paprika
+- 1/2 tsp kasoor methi – dried fenugreek leaves
+- 1/2 tsp kosher salt
 
 ### Curry ingredients
-* 4 Tbsp oil
-* 2 inch piece of cassia bark or cinnamon stick
-* 2 Tbsp onions minced
-* 1 Tbsp garlic/ginger paste – recipe link below
-* 1 Tbsp tomato paste with enough water to dilute to the consistency of pasatta
-* 15 oz curry base – recipe link below
-* 10-12 oz pre-cooked chicken or lamb
-* 1 Tbsp coconut milk powder in enough water to get to coconut milk consistency (optional)
-* 1 tsp fresh lemon juice – about 1/6 of a lemon
+
+- 4 Tbsp oil
+- 2 inch piece of cassia bark or cinnamon stick
+- 2 Tbsp onions minced
+- 1 Tbsp garlic/ginger paste – recipe link below
+- 1 Tbsp tomato paste with enough water to dilute to the consistency of pasatta
+- 15 oz curry base – recipe link below
+- 10-12 oz pre-cooked chicken or lamb
+- 1 Tbsp coconut milk powder in enough water to get to coconut milk consistency (optional)
+- 1 tsp fresh lemon juice – about 1/6 of a lemon
 
 ## Instructions
 

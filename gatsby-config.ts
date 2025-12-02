@@ -5,7 +5,7 @@ const config: GatsbyConfig = {
     title: `Ant's Recipes`,
     description: `My personal recipes.`,
     siteUrl: `https://recipes.ant.ninja/`,
-    social: { },
+    social: {},
   },
   plugins: [
     `gatsby-plugin-image`,

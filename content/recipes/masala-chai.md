@@ -5,18 +5,20 @@ description: Fragrant spiced tea simmered with milk that'll make you wonder why 
 ---
 
 ## Ingredients
-* 2 1/4 cups water
-* 1 cinnamon stick
-* 3 whole cloves
-* 4 green cardamom pods, cracked open
-* 4 black peppercorns
-* 1/2 tsp fennel seeds (optional)
-* 1/2" fresh ginger, peeled and thinly sliced
-* 3 black tea bags or sub 3 tsp loose leaf black tea
-* 1 cup milk
-* 4 tsp cane sugar
+
+- 2 1/4 cups water
+- 1 cinnamon stick
+- 3 whole cloves
+- 4 green cardamom pods, cracked open
+- 4 black peppercorns
+- 1/2 tsp fennel seeds (optional)
+- 1/2" fresh ginger, peeled and thinly sliced
+- 3 black tea bags or sub 3 tsp loose leaf black tea
+- 1 cup milk
+- 4 tsp cane sugar
 
 ## Instructions
+
 1. Heat a medium saucepan over high heat. Add water, cinnamon stick, cloves, cardamom pods, black peppercorns, fennel seeds (if using), and ginger. Bring to a boil and add the tea bags or leaves.
 1. Reduce the heat to medium-low and simmer gently for 7-10 minutes, depending on how strong you’d like the tea and spices. It will turn a deep burgundy color and reduce slightly.
 1. Add milk and sugar and stir. Raise the heat to high. Reduce the heat to medium and simmer for another 5 minutes.

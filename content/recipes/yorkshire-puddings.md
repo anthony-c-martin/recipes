@@ -5,12 +5,14 @@ description: Puffy, golden vessels perfect for catching gravy, and the non-negot
 ---
 
 ## Ingredients
-* 140g plain flour
-* 4 eggs
-* 200ml milk
-* sunflower oil, for cooking
+
+- 140g plain flour
+- 4 eggs
+- 200ml milk
+- sunflower oil, for cooking
 
 ## Instructions
+
 1. Heat oven to 230C/fan 210C/gas 8.
 1. Drizzle a little sunflower oil evenly into two 4-hole Yorkshire pudding tins or two 12-hole non-stick muffin tins and place in the oven to heat through.
 1. To make the batter, tip 140g plain flour into a bowl and beat in 4 eggs until smooth.

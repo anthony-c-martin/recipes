@@ -5,28 +5,34 @@ description: Chicken bathed in red wine with bacon and mushrooms, because the Fr
 ---
 
 ## Ingredients
-* 1½ tbsp olive oil
-* 3 rashers (100g) dry-cured, smoked back bacon, fat trimmed, chopped
-* 12 small shallots, peeled
-* 2 free-range chicken legs (460g), skin removed
-* 4 free-range chicken thighs with bone and skin (650g), skin removed
-* 2 free-range, skinless, boneless chicken breasts (280g)
-* 3 garlic cloves, finely chopped
-* 3 tbsp brandy or Cognac
-* 600ml red wine
-* 150ml good-quality chicken stock
-* 2 tsp tomato purée
-* 3 thyme sprigs, 2 rosemary sprigs and 2 bay leaves, to make a bouquet garni
-* small handful chopped flat-leaf parsley, to garnish
+
+- 1½ tbsp olive oil
+- 3 rashers (100g) dry-cured, smoked back bacon, fat trimmed, chopped
+- 12 small shallots, peeled
+- 2 free-range chicken legs (460g), skin removed
+- 4 free-range chicken thighs with bone and skin (650g), skin removed
+- 2 free-range, skinless, boneless chicken breasts (280g)
+- 3 garlic cloves, finely chopped
+- 3 tbsp brandy or Cognac
+- 600ml red wine
+- 150ml good-quality chicken stock
+- 2 tsp tomato purée
+- 3 thyme sprigs, 2 rosemary sprigs and 2 bay leaves, to make a bouquet garni
+- small handful chopped flat-leaf parsley, to garnish
+
 ### For the mushrooms
-* 1½ tbsp olive oil
-* 250g chestnut mushrooms, halved if large
+
+- 1½ tbsp olive oil
+- 250g chestnut mushrooms, halved if large
+
 ### For the thickener
-* 2 tbsp plain flour
-* 1½ tsp olive oil
-* 1 tsp softened butter
+
+- 2 tbsp plain flour
+- 1½ tsp olive oil
+- 1 tsp softened butter
 
 ## Instructions
+
 1. Heat 1 tbsp olive oil in a large, heavy-based saucepan or flameproof dish. Tip in 3 trimmed and chopped smoked back bacon rashers and fry until crisp. Remove and drain on kitchen paper.
 1. Add 12 peeled shallots to the pan and fry, stirring or shaking the pan often, for 5-8 mins until well browned all over. Remove and set aside with the bacon.
 1. Take 2 chicken legs, 4 chicken thighs and 2 boneless chicken breasts, all with skin removed and pat dry with kitchen paper.

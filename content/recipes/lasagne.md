@@ -5,27 +5,33 @@ description: Layers upon layers of pasta, rich meat ragù, and creamy white sauc
 ---
 
 ## Ingredients
-* 350 g dried lasagne sheets
+
+- 350 g dried lasagne sheets
+
 ### Ragu
-* 2 sprigs of fresh rosemary
-* 100 g higher-welfare smoked streaky bacon
-* olive oil
-* 1 kg beef mince (5% fat)
-* 1 kg pork mince (5% fat)
-* 4 carrots
-* 2 onions
-* 4 sticks of celery
-* 2 heaped tablespoons tomato purée
-* 4 x 400 g tins of plum tomatoes
+
+- 2 sprigs of fresh rosemary
+- 100 g higher-welfare smoked streaky bacon
+- olive oil
+- 1 kg beef mince (5% fat)
+- 1 kg pork mince (5% fat)
+- 4 carrots
+- 2 onions
+- 4 sticks of celery
+- 2 heaped tablespoons tomato purée
+- 4 x 400 g tins of plum tomatoes
+
 ### White Sauce
-* 150 g mature Cheddar cheese
-* 2 medium leeks
-* 2 fresh bay leaves
-* 4 tablespoons plain flour
-* 1 litre semi-skimmed milk
-* Ground nutmeg
+
+- 150 g mature Cheddar cheese
+- 2 medium leeks
+- 2 fresh bay leaves
+- 4 tablespoons plain flour
+- 1 litre semi-skimmed milk
+- Ground nutmeg
 
 ## Instructions
+
 1. Strip and finely chop the rosemary leaves and finely chop the bacon.
 1. Heat 1 tablespoon of oil in a large casserole pan on a high heat. Once hot, add the rosemary and bacon and fry for 2 minutes, or until the bacon starts to crisp up, stirring regularly.
 1. Add all the minced meat, using a wooden spoon to break it up as you go. Reduce the heat to medium and cook for at least 10 minutes, or until all the liquid has evaporated, stirring occasionally.

@@ -1,11 +1,11 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "recipes",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
-  "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "description": "My personal recipes.",
+  "version": "0.0.1",
+  "author": "Anthony Martin",
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/anthony-c-martin/recipes/issues"
   },
   "dependencies": {
     "bootstrap": "^5.3.8",
@@ -27,11 +27,8 @@
   "devDependencies": {
     "prettier": "^3.7.3"
   },
-  "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
-  "keywords": [
-    "gatsby"
-  ],
-  "license": "0BSD",
+  "homepage": "https://recipes.ant.ninja",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/gatsbyjs/gatsby-starter-blog.git"

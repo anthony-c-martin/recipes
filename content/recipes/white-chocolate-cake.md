@@ -5,14 +5,16 @@ description: A no-bake frozen mousse cake where white chocolate meets orange in 
 ---
 
 ## Ingredients
-* A little vegetable oil for greasing
-* 450g white chocolate
-* 284ml carton double cream
-* Finely grated zest of 1 large orange
-* 2tsp orange liqueur, such as Grand Marnier
-* 300ml full-fat Greek yogurt
+
+- A little vegetable oil for greasing
+- 450g white chocolate
+- 284ml carton double cream
+- Finely grated zest of 1 large orange
+- 2tsp orange liqueur, such as Grand Marnier
+- 300ml full-fat Greek yogurt
 
 ## Instructions
+
 1. Lightly oil a shallow 20.5cm (8in) round cake tin. Line with baking parchment.
 1. Break the chocolate into pieces and put into a large bowl with half the cream. Bring a large pan of boiling water to the boil, remove from heat and sit the bowl of chocolate and cream on top, making sure the base of the bowl doesn't touch the water.
 1. Leave for 20-30 min until the chocolate has melted. Don't stir; just leave it to melt.

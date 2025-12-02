@@ -5,17 +5,19 @@ description: A creamy, custardy tart dusted with cinnamon that's beloved across 
 ---
 
 ## Ingredients
-* 2 cups milk (2% or full cream)
-* 2 tablespoons butter
-* 1/2 cup sugar
-* Pinch of salt
-* 3 eggs
-* 3 tablespoons cornstarch, heaped
-* Pinch of cinnamon sugar
-* Pinch of coconut
-* 1 graham cracker pie shell
+
+- 2 cups milk (2% or full cream)
+- 2 tablespoons butter
+- 1/2 cup sugar
+- Pinch of salt
+- 3 eggs
+- 3 tablespoons cornstarch, heaped
+- Pinch of cinnamon sugar
+- Pinch of coconut
+- 1 graham cracker pie shell
 
 ## Instructions
+
 1. Preheat oven to 350F.
 1. Rinse pot with cold water. Add butter, sugar and pinch of salt to milk. Bring milk to a boil, turn to low.
 1. Beat eggs very well in a separate container. Have at the ready.

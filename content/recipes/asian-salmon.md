@@ -5,17 +5,18 @@ description: Salmon wrapped in foil like a delicious secret, emerging caramelize
 ---
 
 ## Ingredients
-* 1/4 cup honey
-* 3 cloves garlic, minced
-* 2 tablespoons reduced sodium soy sauce
-* 1 tablespoon seasoned rice vinegar
-* 1 tablespoon sesame oil
-* 1 tablespoon freshly grated ginger
-* 1 teaspoon Sriracha, optional
-* Freshly ground black pepper, to taste
-* 2 pounds salmon
-* 2 green onions, thinly sliced
-* 1/2 teaspoon sesame seeds
+
+- 1/4 cup honey
+- 3 cloves garlic, minced
+- 2 tablespoons reduced sodium soy sauce
+- 1 tablespoon seasoned rice vinegar
+- 1 tablespoon sesame oil
+- 1 tablespoon freshly grated ginger
+- 1 teaspoon Sriracha, optional
+- Freshly ground black pepper, to taste
+- 2 pounds salmon
+- 2 green onions, thinly sliced
+- 1/2 teaspoon sesame seeds
 
 ## Instructions
 

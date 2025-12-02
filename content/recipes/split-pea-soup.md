@@ -5,15 +5,16 @@ description: Thick, hearty soup where split peas and ham unite in rustic, stick-
 ---
 
 ## Ingredients
-* 3 tablespoons (45g) unsalted butter
-* 1 medium onion, finely diced (about 6 ounces; 170g)
-* 1 large rib celery, finely diced (about 4 ounces; 125g)
-* 6 ounces (170g) ham steak, diced, or 1 smoked ham hock (see notes)
-* 2 medium cloves garlic, minced
-* 1 pound (450g) dried green split peas
-* 2 quarts (2L) homemade or store-bought low-sodium chicken stock, or water
-* 2 bay leaves
-* Kosher salt and freshly ground black pepper
+
+- 3 tablespoons (45g) unsalted butter
+- 1 medium onion, finely diced (about 6 ounces; 170g)
+- 1 large rib celery, finely diced (about 4 ounces; 125g)
+- 6 ounces (170g) ham steak, diced, or 1 smoked ham hock (see notes)
+- 2 medium cloves garlic, minced
+- 1 pound (450g) dried green split peas
+- 2 quarts (2L) homemade or store-bought low-sodium chicken stock, or water
+- 2 bay leaves
+- Kosher salt and freshly ground black pepper
 
 ## Instructions
 

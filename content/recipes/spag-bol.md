@@ -5,21 +5,23 @@ description: A hearty meat sauce slow-cooked to perfection, ready to coat your s
 ---
 
 ## Ingredients
-* 1lb beef mince
-* 1 large white onion
-* 3 rashers bacon
-* 2 tins chopped tomatoes
-* 5 cloves garlic (minced)
-* 2 tablespoons tomato paste
-* 2 tablespoons olive oil
-* 1 pint beef stock
-* 1 tablespoon oregano
-* 1/4 teaspoon chili flakes
-* 2 bay leaves
-* salt & pepper
-* 1 teaspoon lea & perrins
+
+- 1lb beef mince
+- 1 large white onion
+- 3 rashers bacon
+- 2 tins chopped tomatoes
+- 5 cloves garlic (minced)
+- 2 tablespoons tomato paste
+- 2 tablespoons olive oil
+- 1 pint beef stock
+- 1 tablespoon oregano
+- 1/4 teaspoon chili flakes
+- 2 bay leaves
+- salt & pepper
+- 1 teaspoon lea & perrins
 
 ## Instructions
+
 1. Soften onions & garlic over a low heat
 1. Add bacon chopped into little bits and fry until fat is rendered
 1. Make space in the middle, add beef mince, and turn up heat to high to brown

@@ -5,17 +5,19 @@ description: The noble destiny of every brown banana, transformed into a moist, 
 ---
 
 ## Ingredients
-* 285g/10oz plain flour
-* 1 tsp bicarbonate of soda
-* ½ tsp salt
-* 110g/4oz butter, plus extra for greasing
-* 225g/8oz caster sugar
-* 2 free-range eggs
-* 4 ripe bananas, mashed
-* 85ml/3fl oz buttermilk (or normal milk mixed with 1½ tsp lemon juice or vinegar)
-* 1 tsp vanilla extract
+
+- 285g/10oz plain flour
+- 1 tsp bicarbonate of soda
+- ½ tsp salt
+- 110g/4oz butter, plus extra for greasing
+- 225g/8oz caster sugar
+- 2 free-range eggs
+- 4 ripe bananas, mashed
+- 85ml/3fl oz buttermilk (or normal milk mixed with 1½ tsp lemon juice or vinegar)
+- 1 tsp vanilla extract
 
 ## Instructions
+
 1. Preheat the oven to 180C/350F/Gas 4.
 1. Sift the flour, bicarbonate of soda and salt into a large mixing bowl.
 1. In a separate bowl, cream the butter and sugar together until light and fluffy.

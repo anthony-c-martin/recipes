@@ -5,17 +5,18 @@ description: The secret weapon of restaurant-style curries, a fragrant base that
 ---
 
 ## Ingredients
-* 8 large onions
-* 6-8 cloves garlic peeled
-* 1 1/2 Tbsp ginger coarsely chopped
-* 1 1/2 Tbsp cumin powder
-* 1 1/2 Tbsp coriander powder
-* 1 1/2 tsp turmeric
-* 1 1/2 tsp salt
-* 12-15 fresh cilantro stalks with leaves
-* 1 cup vegetable oil
-* 12 cups boiling water
-* 15 oz can diced tomatoes
+
+- 8 large onions
+- 6-8 cloves garlic peeled
+- 1 1/2 Tbsp ginger coarsely chopped
+- 1 1/2 Tbsp cumin powder
+- 1 1/2 Tbsp coriander powder
+- 1 1/2 tsp turmeric
+- 1 1/2 tsp salt
+- 12-15 fresh cilantro stalks with leaves
+- 1 cup vegetable oil
+- 12 cups boiling water
+- 15 oz can diced tomatoes
 
 ## Instructions
 

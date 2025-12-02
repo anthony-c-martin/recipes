@@ -5,8 +5,8 @@ import { Layout } from "../components/layout"
 import { Seo } from "../components/seo"
 
 type Props = {
-  data: any,
-  location: Location,
+  data: any
+  location: Location
 }
 
 const NotFoundPage: React.FC<Props> = ({ data, location }) => {

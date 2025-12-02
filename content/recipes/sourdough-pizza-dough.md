@@ -5,29 +5,35 @@ description: Sourdough starter meets pizza night, creating a chewy, flavorful ba
 ---
 
 ## Ingredients
+
 ### Starter
-* 25g Sourdough Culture
-* 100g Bread Flour
-* 100g Water
+
+- 25g Sourdough Culture
+- 100g Bread Flour
+- 100g Water
 
 ### Final Dough Mix
-* 225 g Starter (from above) - should be about doubled in size, 6-12hrs from mixing the starter.
-* 400g "00" flour
-* 285g Bread flour
-* 50g T85 (or whole wheat mix) flour
-* 25g Salt
-* 10g Olive oil
-* 440g Water
+
+- 225 g Starter (from above) - should be about doubled in size, 6-12hrs from mixing the starter.
+- 400g "00" flour
+- 285g Bread flour
+- 50g T85 (or whole wheat mix) flour
+- 25g Salt
+- 10g Olive oil
+- 440g Water
 
 ## Instructions
+
 ### Starter (6-12 hours before next step)
+
 1. Add 100g water to a 1-quart deli container.
 1. Add 25g sourdough culture to the water and mix with your hand, pinching to break up the culture.
 1. Weigh 100g bread flour in a small bowl.
 1. Add flour to water and culture mixture, stir to all dry flour is absorbed.
-Cover. Let rest at room temperature for 6-12 hours. It should double in size. Time and activity will vary by location and conditions.
+   Cover. Let rest at room temperature for 6-12 hours. It should double in size. Time and activity will vary by location and conditions.
 
 ### Final Dough Mix (at least 8 hours before baking pizza)
+
 1. Add "00" Flour, Bread Flour, T85 Flour to the mixer bowl. Mix on lowest speed
 1. Add 450g filtered water to the starter and and mix by hand till the starter is mostly dissolved into the water.
 1. Turn mixer off and add the starter and water mix. Mix on lowest speed just till the dry flour is incorporated. Cover and let rest in mixer bowl about 25 minutes.
@@ -36,6 +42,7 @@ Cover. Let rest at room temperature for 6-12 hours. It should double in size. Ti
 1. Cover tightly. Let bulk ferment at room temperature for 1-5 hours (actual time will depend on your environment it should almost double.)
 
 ### Balling the pizza dough balls
+
 1. Lightly oil a half sheet pan or dough tray. (I place the dough ball(s) I plan to use the same day on their own sheet or plate)
 1. Lightly dust a work surface with flour. With floured hands remove the dough from the bowl.
 1. Lightly dust the top of the dough with flour.
@@ -45,4 +52,5 @@ Cover. Let rest at room temperature for 6-12 hours. It should double in size. Ti
 1. For cold fermentation, refrigerate dough balls for up to 4 days for best results. For same day, enjoy!
 
 ### Tempering the Dough (at least 1.5 hours before baking pizzas if dough has been cold fermented)
+
 1. Temper the dough by removing from the refrigerator and allowing to come to room temperature before using. You may carefully remove individual dough balls and temper on an oiled, covered plate reserving additional dough balls for later use.

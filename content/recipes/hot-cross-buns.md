@@ -5,27 +5,34 @@ description: Spiced, fruity buns topped with a signature cross, because Easter n
 ---
 
 ## Ingredients
+
 ### Buns
-* 500g strong white bread flour, plus extra for dusting
-* 10g salt
-* 75g caster sugar
-* 10g instant yeast
-* 40g unsalted butter, softened
-* 2 medium eggs, beaten
-* 120ml warm full-fat milk
-* 120ml cool water
-* 150g sultanas
-* 80g chopped mixed peel
-* Finely grated zest of 2 oranges
-* 1 dessert apple, cored and diced
-* 2 tsp ground cinnamon
+
+- 500g strong white bread flour, plus extra for dusting
+- 10g salt
+- 75g caster sugar
+- 10g instant yeast
+- 40g unsalted butter, softened
+- 2 medium eggs, beaten
+- 120ml warm full-fat milk
+- 120ml cool water
+- 150g sultanas
+- 80g chopped mixed peel
+- Finely grated zest of 2 oranges
+- 1 dessert apple, cored and diced
+- 2 tsp ground cinnamon
+
 ### Crosses
-* 75g plain flour
-* 75ml water
+
+- 75g plain flour
+- 75ml water
+
 ### Glaze
-* 75g apricot jam
+
+- 75g apricot jam
 
 ## Instructions
+
 1. Put the flour into a large mixing bowl. Add the salt and sugar to one side of the bowl and the yeast to the other. Add the butter, eggs, milk and half the water and turn the mixture round with your fingers. Continue to add the water, a little at a time, until you’ve picked up all the flour from the sides of the bowl. You may not need to add all the water, or you may need to add a little more – you want dough that is soft, but not soggy. Use the mixture to clean the inside of the bowl and keep going until the mixture forms a rough dough.
 1. Tip the dough onto a lightly floured surface and begin to knead. Keep kneading for 5-10 minutes. Work through the initial wet stage until the dough starts to form a soft, smooth skin.
 1. When your dough feels smooth and silky, put it into a lightly oiled large bowl. Cover with a tea towel and leave to rise until at least doubled in size – at least 1 hour, but it’s fine to leave it for 2 or even 3 hours.

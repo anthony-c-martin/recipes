@@ -5,11 +5,11 @@ import { Layout } from "../components/layout"
 import { Seo } from "../components/seo"
 
 type Props = {
-  data: any,
+  data: any
 }
 
 const RecipeTemplate: React.FC<Props> = ({ data }) => {
-  const { markdownRemark: post } = data;
+  const { markdownRemark: post } = data
   return (
     <Layout>
       <article>
@@ -17,18 +17,15 @@ const RecipeTemplate: React.FC<Props> = ({ data }) => {
           <h1 itemProp="headline">{post.frontmatter.title}</h1>
           <p>{post.frontmatter.date}</p>
         </header>
-        <section
-          dangerouslySetInnerHTML={{ __html: post.html }}
-        />
-        <footer>
-        </footer>
+        <section dangerouslySetInnerHTML={{ __html: post.html }} />
+        <footer></footer>
       </article>
     </Layout>
   )
 }
 
 export const Head: React.FC<Props> = ({ data }) => {
-  const { markdownRemark: post } = data;
+  const { markdownRemark: post } = data
   return (
     <Seo
       title={post.frontmatter.title}
@@ -40,9 +37,7 @@ export const Head: React.FC<Props> = ({ data }) => {
 export default RecipeTemplate
 
 export const pageQuery = graphql`
-  query RecipeBySlug(
-    $id: String!
-  ) {
+  query RecipeBySlug($id: String!) {
     site {
       siteMetadata {
         title

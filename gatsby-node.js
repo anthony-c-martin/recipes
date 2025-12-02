@@ -33,7 +33,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
   if (result.errors) {
     reporter.panicOnBuild(
       `There was an error loading your recipes`,
-      result.errors
+      result.errors,
     )
     return
   }

@@ -11,13 +11,13 @@ export const Layout: React.FC<Props> = ({ children }) => {
     <Container fluid>
       <header>
         <Navbar>
-          <Navbar.Brand as={Link} to="/">Ant's Recipes</Navbar.Brand>
+          <Navbar.Brand as={Link} to="/">
+            Ant's Recipes
+          </Navbar.Brand>
         </Navbar>
       </header>
       <main>
-        <Container>
-          {children}
-        </Container>
+        <Container>{children}</Container>
       </main>
       <footer></footer>
     </Container>

@@ -5,21 +5,25 @@ description: A French lemon tart with a buttery crust and silky-smooth filling t
 ---
 
 ## Ingredients
+
 ### Pastry
-* 175g/6oz plain flour
-* 100g/3½oz cold butter, cut into small cubes
-* 25g/1oz icing sugar
-* 1 free-range egg yolk
-* 1 tbsp cold water
+
+- 175g/6oz plain flour
+- 100g/3½oz cold butter, cut into small cubes
+- 25g/1oz icing sugar
+- 1 free-range egg yolk
+- 1 tbsp cold water
 
 ### Filling
-* 5 free-range eggs
-* 125ml/4fl oz double cream
-* 225g/8oz caster sugar
-* 4 lemons, juice and zest
-* icing sugar, for dusting
+
+- 5 free-range eggs
+- 125ml/4fl oz double cream
+- 225g/8oz caster sugar
+- 4 lemons, juice and zest
+- icing sugar, for dusting
 
 ## Instructions
+
 1. To make the pastry, place the flour, butter and icing sugar into a food processor. Pulse briefly until the mixture resembles breadcrumbs, then add the egg yolk and water.
 1. Pulse again until the mixture sticks together in clumps then tip onto a work surface and gather it into a ball with your hands. Knead the pastry just two or three times to make it smooth. If your butter was a bit too soft, the pastry might be too. If so, wrap it in parchment paper and chill for 15 minutes.
 1. Grease a 23cm/9in loose-bottomed, fluted tart tin.

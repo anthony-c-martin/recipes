@@ -5,18 +5,23 @@ description: A gloriously crumbly crown atop a jammy fruit filling that'll have 
 ---
 
 ## Ingredients
+
 ### Crumble Topping
-* 120g plain flour
-* 60g caster sugar
-* 60g unsalted butter at room temperature, cut into pieces
+
+- 120g plain flour
+- 60g caster sugar
+- 60g unsalted butter at room temperature, cut into pieces
+
 ### Fruit Compote
-* 300g Braeburn apple
-* 30g unsalted butter
-* 30g demerara sugar
-* 115g blackberries
-* ¼ tsp ground cinnamon
+
+- 300g Braeburn apple
+- 30g unsalted butter
+- 30g demerara sugar
+- 115g blackberries
+- ¼ tsp ground cinnamon
 
 ## Instructions
+
 1. Heat oven to 190C/170C fan/gas 5. Tip 120g plain flour and 60g caster sugar into a large bowl.
 1. Add 60g unsalted butter, then rub into the flour using your fingertips to make a light breadcrumb texture. Do not overwork it or the crumble will become heavy.
 1. Sprinkle the mixture evenly over a baking sheet and bake for 15 mins or until lightly coloured.

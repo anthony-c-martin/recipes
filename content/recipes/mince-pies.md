@@ -5,20 +5,24 @@ description: Festive little pastries packed with spiced fruit mincemeat, because
 ---
 
 ## Ingredients
+
 ### Filling
-* 1 large jar mincemeat (about 600g)
-* 2 satsumas, segmented and finely chopped
-* 1 apple, finely chopped
-* zest 1 lemon
-* little icing sugar, for dusting
+
+- 1 large jar mincemeat (about 600g)
+- 2 satsumas, segmented and finely chopped
+- 1 apple, finely chopped
+- zest 1 lemon
+- little icing sugar, for dusting
 
 ### Pastry
-* 375g plain flour
-* 260g unsalted butter, softened
-* 125g caster sugar, plus extra for sprinkling
-* 1 large egg, plus 1 beaten egg for glazing
+
+- 375g plain flour
+- 260g unsalted butter, softened
+- 125g caster sugar, plus extra for sprinkling
+- 1 large egg, plus 1 beaten egg for glazing
 
 ## Instructions
+
 1. Place 375g plain flour and 260g softened unsalted butter in a bowl and rub together to a crumb consistency.
 1. Add 125g caster sugar and 1 large beaten egg, and mix together.
 1. Tip out onto a lightly floured surface and fold until the pastry comes together, be careful not to over mix.
