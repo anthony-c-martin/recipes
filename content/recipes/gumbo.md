@@ -1,6 +1,7 @@
 ---
 title: Gumbo
-description: Gumbo
+tags: ["soup", "entree"]
+description: A dark, rich Louisiana stew built on a patient roux, loaded with chicken and sausage, and demanding to be served over rice.
 ---
 
 ## Ingredients

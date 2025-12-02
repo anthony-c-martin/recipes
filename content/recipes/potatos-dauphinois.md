@@ -1,6 +1,7 @@
 ---
 title: Potatos Dauphinois
-description: Potatos Dauphinois
+tags: ["side"]
+description: Thinly sliced potatoes bathed in cream and garlic, baked into a luxuriously rich, golden-topped masterpiece.
 ---
 
 ## Ingredients

@@ -1,6 +1,7 @@
 ---
 title: Dutch Appeltaart
-description: Dutch Appeltaart
+tags: ["dessert", "baking"]
+description: A towering Dutch apple pie with a lattice top that's more apple than pie, spiced just right and utterly irresistible.
 ---
 
 ## Ingredients

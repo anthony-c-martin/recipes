@@ -1,6 +1,7 @@
 ---
 title: Turkey Chili
-description: Turkey Chili
+tags: ["entree"]
+description: A lighter take on chili that's still loaded with beans, veggies, and enough spice to keep things interesting.
 ---
 
 ## Ingredients

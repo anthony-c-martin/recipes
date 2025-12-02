@@ -1,6 +1,7 @@
 ---
 title: Spicy Carrot and Ginger Soup
-description: Spicy Carrot and Ginger Soup
+tags: ["soup"]
+description: A vibrant orange bowl of sunshine with a ginger kick that'll warm you from the inside out.
 ---
 
 ## Ingredients

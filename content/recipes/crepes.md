@@ -1,6 +1,7 @@
 ---
 title: Crepes
-description: Crepes
+tags: ["breakfast", "baking"]
+description: Delicate, paper-thin pancakes that are basically edible silk, ready to cradle sweet or savory fillings.
 ---
 
 ## Ingredients

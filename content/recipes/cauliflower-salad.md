@@ -1,6 +1,7 @@
 ---
 title: Chargrilled cauliflower salad
-description: Chargrilled cauliflower salad
+tags: ["salad"]
+description: Cauliflower florets get their moment in the spotlight, charred to perfection and tossed with a zingy vinaigrette.
 ---
 
 ## Ingredients

@@ -1,6 +1,7 @@
 ---
 title: Sourdough Loaf
-description: Sourdough Loaf
+tags: ["baking"]
+description: A crusty, tangy loaf born from wild yeast and patience, rewarding you with the most satisfying crackle when you slice it.
 ---
 
 ## Ingredients

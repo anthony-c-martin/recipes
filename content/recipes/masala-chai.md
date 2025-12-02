@@ -1,6 +1,7 @@
 ---
 title: Masala Chai
-description: Masala Chai
+tags: ["beverage"]
+description: Fragrant spiced tea simmered with milk that'll make you wonder why you ever settled for tea bags.
 ---
 
 ## Ingredients

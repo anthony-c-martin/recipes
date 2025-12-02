@@ -1,6 +1,7 @@
 ---
 title: Sourdough Pizza Dough
-description: Sourdough Pizza Dough
+tags: ["baking"]
+description: Sourdough starter meets pizza night, creating a chewy, flavorful base that puts delivery to shame.
 ---
 
 ## Ingredients

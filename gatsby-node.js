@@ -7,8 +7,8 @@
 const path = require(`path`)
 const { createFilePath } = require(`gatsby-source-filesystem`)
 
-// Define the template for blog post
-const blogPost = path.resolve(`./src/templates/blog-post.js`)
+// Define the template for recipe
+const recipe = path.resolve(`./src/templates/recipe.tsx`)
 
 /**
  * @type {import('gatsby').GatsbyNode['createPages']}
@@ -16,7 +16,7 @@ const blogPost = path.resolve(`./src/templates/blog-post.js`)
 exports.createPages = async ({ graphql, actions, reporter }) => {
   const { createPage } = actions
 
-  // Get all markdown blog posts sorted by date
+  // Get all markdown recipes sorted by date
   const result = await graphql(`
     {
       allMarkdownRemark(sort: { frontmatter: { date: ASC } }, limit: 1000) {
@@ -32,7 +32,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
 
   if (result.errors) {
     reporter.panicOnBuild(
-      `There was an error loading your blog posts`,
+      `There was an error loading your recipes`,
       result.errors
     )
     return
@@ -40,7 +40,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
 
   const posts = result.data.allMarkdownRemark.nodes
 
-  // Create blog posts pages
+  // Create recipe pages
   // But only if there's at least one markdown file found at "content/recipes" (defined in gatsby-config.js)
   // `context` is available in the template as a prop and as a variable in GraphQL
 
@@ -51,7 +51,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
 
       createPage({
         path: post.fields.slug,
-        component: blogPost,
+        component: recipe,
         context: {
           id: post.id,
           previousPostId,
@@ -90,7 +90,7 @@ exports.createSchemaCustomization = ({ actions }) => {
 
   // Also explicitly define the Markdown frontmatter
   // This way the "MarkdownRemark" queries will return `null` even when no
-  // blog posts are stored inside "content/recipes" instead of returning an error
+  // recipes are stored inside "content/recipes" instead of returning an error
   createTypes(`
     type SiteSiteMetadata {
       author: Author
@@ -116,6 +116,7 @@ exports.createSchemaCustomization = ({ actions }) => {
       title: String
       description: String
       date: Date @dateformat
+      tags: [String]
     }
 
     type Fields {

@@ -1,6 +1,7 @@
 ---
 title: Banana bread
-description: Banana bread
+tags: ["baking"]
+description: The noble destiny of every brown banana, transformed into a moist, fragrant loaf that disappears faster than it cools.
 ---
 
 ## Ingredients

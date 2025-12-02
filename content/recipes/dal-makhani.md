@@ -1,6 +1,7 @@
 ---
 title: Dal Makhani
-description: Dal Makhani
+tags: ["entree"]
+description: Black lentils simmered into creamy, buttery submission – the kind of comfort food that demands a naan bread co-pilot.
 ---
 
 ## Ingredients

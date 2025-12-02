@@ -1,6 +1,7 @@
 ---
 title: Basic Pasta Dough
-description: Basic Pasta Dough
+tags: ["pasta"]
+description: The foundation of countless Italian dreams, just waiting to be rolled, cut, and transformed into whatever noodle your heart desires.
 ---
 
 ## Ingredients

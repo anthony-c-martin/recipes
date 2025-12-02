@@ -1,6 +1,7 @@
 ---
 title: Split pea and ham soup
-description: Split pea and ham soup
+tags: ["soup"]
+description: Thick, hearty soup where split peas and ham unite in rustic, stick-to-your-ribs bliss.
 ---
 
 ## Ingredients

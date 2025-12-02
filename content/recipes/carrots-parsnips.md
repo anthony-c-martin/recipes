@@ -1,6 +1,7 @@
 ---
 title: Roast carrots & parsnips
-description: Roast carrots & parsnips
+tags: ["side"]
+description: Root vegetables get the spa treatment with a honey-mustard glaze, emerging caramelized and impossibly sticky.
 ---
 
 Root vegetables respond very well to a little extra TLC come the big day. This recipe results in crisp, caramelised edges and the deliciously sticky glaze is no more demanding than a salad dressing

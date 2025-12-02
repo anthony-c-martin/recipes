@@ -1,6 +1,7 @@
 ---
 title: Jambalaya
-description: Jambalaya
+tags: ["entree"]
+description: A one-pot Cajun party where rice, chicken, sausage, and tomatoes dance together in spicy harmony.
 ---
 
 ## Ingredients

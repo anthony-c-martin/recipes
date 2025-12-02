@@ -1,6 +1,7 @@
 ---
 title: Coq au vin
-description: Coq au vin
+tags: ["entree"]
+description: Chicken bathed in red wine with bacon and mushrooms, because the French know what they're doing.
 ---
 
 ## Ingredients

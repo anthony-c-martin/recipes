@@ -1,6 +1,7 @@
 ---
 title: Snickerdoodles
-description: Snickerdoodles
+tags: ["baking"]
+description: Soft, pillowy cookies rolled in cinnamon sugar with a name that's just as delightful as their taste.
 ---
 
 ## Ingredients

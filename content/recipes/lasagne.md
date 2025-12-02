@@ -1,6 +1,7 @@
 ---
 title: Lasagne
-description: Lasagne
+tags: ["entree"]
+description: Layers upon layers of pasta, rich meat ragù, and creamy white sauce creating the ultimate comfort food tower.
 ---
 
 ## Ingredients

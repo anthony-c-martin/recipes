@@ -1,6 +1,7 @@
 ---
 title: Pancakes
-description: Pancakes
+tags: ["breakfast", "baking"]
+description: Fluffy, golden discs of morning happiness that are the blank canvas for all your syrupy dreams.
 ---
 
 ## Ingredients

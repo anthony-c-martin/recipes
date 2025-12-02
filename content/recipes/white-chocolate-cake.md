@@ -1,6 +1,7 @@
 ---
 title: White Chocolate & Orange Mousse Cake
-description: White Chocolate & Orange Mousse Cake
+tags: ["dessert"]
+description: A no-bake frozen mousse cake where white chocolate meets orange in a cloud-like confection.
 ---
 
 ## Ingredients
