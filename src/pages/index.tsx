@@ -1,6 +1,7 @@
 import * as React from "react"
 import { Badge, Card, Container, Form } from "react-bootstrap"
 import { Link, graphql } from "gatsby"
+import { GatsbyImage, getImage } from "gatsby-plugin-image"
 
 import { Layout } from "../components/layout"
 import { Seo } from "../components/seo"
@@ -42,6 +43,8 @@ const BlogIndex: React.FC<Props> = ({ data, location }) => {
             const title = post.frontmatter.title || post.fields.slug
             const description = post.frontmatter.description
             const tags: string[] = post.frontmatter.tags || []
+            const featuredImg = getImage(post.frontmatter.featuredImage?.childImageSharp?.gatsbyImageData)
+            const backgroundImageUrl = featuredImg ? featuredImg.images.fallback?.src : null
 
             return (
               <Card
@@ -49,6 +52,12 @@ const BlogIndex: React.FC<Props> = ({ data, location }) => {
                 as={Link}
                 to={post.fields.slug}
                 className="recipe-card"
+                style={backgroundImageUrl ? {
+                  backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(${backgroundImageUrl})`,
+                  backgroundSize: 'cover',
+                  backgroundPosition: 'center',
+                  color: 'white'
+                } : {}}
               >
                 <Card.Body>
                   <Card.Title>{title}</Card.Title>
@@ -95,6 +104,11 @@ export const pageQuery = graphql`
           title
           description
           tags
+          featuredImage {
+            childImageSharp {
+              gatsbyImageData(width: 400)
+            }
+          }
         }
       }
     }

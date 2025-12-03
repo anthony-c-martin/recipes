@@ -12,8 +12,8 @@ const config: GatsbyConfig = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        path: `${__dirname}/content/recipes`,
-        name: `recipes`,
+        path: `${__dirname}/content`,
+        name: `content`,
       },
     },
     {

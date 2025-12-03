@@ -41,7 +41,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
   const posts = result.data.allMarkdownRemark.nodes
 
   // Create recipe pages
-  // But only if there's at least one markdown file found at "content/recipes" (defined in gatsby-config.js)
+  // But only if there's at least one markdown file found at "content" (defined in gatsby-config.js)
   // `context` is available in the template as a prop and as a variable in GraphQL
 
   if (posts.length > 0) {
@@ -90,7 +90,7 @@ exports.createSchemaCustomization = ({ actions }) => {
 
   // Also explicitly define the Markdown frontmatter
   // This way the "MarkdownRemark" queries will return `null` even when no
-  // recipes are stored inside "content/recipes" instead of returning an error
+  // recipes are stored inside "content" instead of returning an error
   createTypes(`
     type SiteMetadata {
       siteUrl: String
