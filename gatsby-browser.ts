@@ -1,14 +1,10 @@
-import { getColorMode } from "./src/helpers/colorModes"
+import type { GatsbyBrowser } from "gatsby"
 
 import "./src/style.css"
 import "bootstrap/dist/css/bootstrap.min.css"
 
-const updateTheme = () =>
-  document.documentElement.setAttribute("data-bs-theme", getColorMode())
+const browser: GatsbyBrowser = {
+  onServiceWorkerUpdateReady: () => window.location.reload(),
+}
 
-window
-  .matchMedia("(prefers-color-scheme: dark)")
-  .addEventListener("change", updateTheme)
-window.addEventListener("DOMContentLoaded", updateTheme)
-
-export const onServiceWorkerUpdateReady = () => window.location.reload()
+export const onServiceWorkerUpdateReady = browser.onServiceWorkerUpdateReady
