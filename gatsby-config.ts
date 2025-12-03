@@ -20,7 +20,7 @@ const config: GatsbyConfig = {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `images`,
-        path: `${__dirname}/src/images`,
+        path: `${__dirname}/images`,
       },
     },
     {
@@ -103,7 +103,7 @@ const config: GatsbyConfig = {
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `standalone`,
-        icon: `src/images/glizzy.png`, // This path is relative to the root of the site.
+        icon: `images/glizzy.png`, // This path is relative to the root of the site.
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
