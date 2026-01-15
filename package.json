@@ -25,7 +25,7 @@
     "react-dom": "^18.3.1"
   },
   "devDependencies": {
-    "prettier": "^3.7.4"
+    "prettier": "^3.8.0"
   },
   "homepage": "https://recipes.ant.ninja",
   "license": "MIT",
