@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "bootstrap": "^5.3.8",
-    "gatsby": "^5.15.0",
+    "gatsby": "^5.16.0",
     "gatsby-plugin-feed": "^5.15.0",
     "gatsby-plugin-image": "^3.15.0",
     "gatsby-plugin-manifest": "^5.15.0",
