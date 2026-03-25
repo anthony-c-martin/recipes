@@ -47,7 +47,7 @@ jobs:
         deny-settings-mode: denyDelete
     
     - name: Upload Site
-      uses: azure/CLI@v2
+      uses: azure/CLI@v3
       with:
         azcliversion: latest
         inlineScript: |
