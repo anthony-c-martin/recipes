@@ -46,18 +46,26 @@ jobs:
         action-on-unmanage-resources: delete
         deny-settings-mode: denyDelete
     
-    - name: Upload Site
+    - name: Get Static Web App deployment token
       uses: azure/CLI@v3
       with:
         azcliversion: latest
         inlineScript: |
-          az storage blob service-properties update \
-            --account-name ${{steps.deploy.outputs.stgAccName}} \
-            --static-website \
-            --404-document 404.html \
-            --index-document index.html
-          
-          az storage blob sync \
-            --account-name ${{steps.deploy.outputs.stgAccName}} \
-            --source public \
-            --container "\$web"
+          token=$(az staticwebapp secrets list \
+            --name "${{ steps.deploy.outputs.staticWebAppName }}" \
+            --query properties.apiKey \
+            --output tsv)
+          if [ -z "$token" ]; then
+            echo "::error::Static Web App deployment token was empty"
+            exit 1
+          fi
+          echo "::add-mask::$token"
+          echo "SWA_DEPLOYMENT_TOKEN=$token" >> "$GITHUB_ENV"
+
+    - name: Upload Site
+      uses: Azure/static-web-apps-deploy@v1
+      with:
+        azure_static_web_apps_api_token: ${{ env.SWA_DEPLOYMENT_TOKEN }}
+        action: upload
+        app_location: public
+        skip_app_build: true

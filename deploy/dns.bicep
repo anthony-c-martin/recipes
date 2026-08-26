@@ -1,7 +1,6 @@
 param domainName string
 param subDomainName string
-param cdnEndpointResourceId string
-param cdnValidationToken string
+param staticWebAppHostname string
 
 resource dnsZone 'Microsoft.Network/dnsZones@2018-05-01' existing = {
   name: domainName
@@ -10,23 +9,7 @@ resource dnsZone 'Microsoft.Network/dnsZones@2018-05-01' existing = {
     name: subDomainName
     properties: {
       TTL: 3600
-      targetResource: {
-        id: cdnEndpointResourceId
-      }
-    }
-  }
-
-  resource cdnverify 'TXT' = {
-    name: '_dnsauth.${subDomainName}'
-    properties: {
-      TTL: 3600
-      TXTRecords: [
-        {
-          value: [
-            cdnValidationToken
-          ]
-        }
-      ]
+      CNAMERecord: staticWebAppHostname
     }
   }
 }
