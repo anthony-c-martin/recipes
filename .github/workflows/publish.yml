@@ -5,6 +5,10 @@ on:
     branches: [ main ]
   workflow_dispatch:
 
+concurrency:
+  group: publish-production
+  cancel-in-progress: false
+
 jobs:
   publish:
     runs-on: ubuntu-latest
