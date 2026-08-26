@@ -9,7 +9,9 @@ resource dnsZone 'Microsoft.Network/dnsZones@2018-05-01' existing = {
     name: subDomainName
     properties: {
       TTL: 3600
-      CNAMERecord: staticWebAppHostname
+      CNAMERecord: {
+        cname: staticWebAppHostname
+      }
     }
   }
 }
