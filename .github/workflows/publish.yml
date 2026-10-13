@@ -38,7 +38,7 @@ jobs:
 
     - name: WhatIf Infra
       id: whatif
-      uses: azure/bicep-deploy@v2
+      uses: azure/bicep-deploy@7443f922e2ecbbf17fae22ece9c1fcf6d885b207
       with:
         type: deploymentStack
         operation: whatIf
