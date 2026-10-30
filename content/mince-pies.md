@@ -1,8 +1,6 @@
 ---
 title: Mince Pies
 tags: ["dessert", "baking"]
-featuredImage: ../images/mince-pies.jpg
-description: Festive little pastries packed with spiced fruit mincemeat, because Christmas needs bite-sized joy.
 ---
 
 ## Ingredients

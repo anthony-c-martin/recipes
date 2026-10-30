@@ -1,8 +1,6 @@
 ---
 title: Mexican Rice
 tags: ["side"]
-featuredImage: ../images/mexican-rice.webp
-description: Fluffy, tomato-tinged rice that's the perfect sidekick to any Mexican feast.
 ---
 
 ## Ingredients

@@ -8,7 +8,7 @@ const config: GatsbyConfig = {
     social: {},
   },
   plugins: [
-    `gatsby-plugin-image`,
+    `gatsby-plugin-postcss`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -17,22 +17,9 @@ const config: GatsbyConfig = {
       },
     },
     {
-      resolve: `gatsby-source-filesystem`,
-      options: {
-        name: `images`,
-        path: `${__dirname}/images`,
-      },
-    },
-    {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [
-          {
-            resolve: `gatsby-remark-images`,
-            options: {
-              maxWidth: 630,
-            },
-          },
           {
             resolve: `gatsby-remark-responsive-iframe`,
             options: {
@@ -42,8 +29,6 @@ const config: GatsbyConfig = {
         ],
       },
     },
-    `gatsby-transformer-sharp`,
-    `gatsby-plugin-sharp`,
     {
       resolve: `gatsby-plugin-feed`,
       options: {

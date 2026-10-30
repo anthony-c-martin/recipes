@@ -1,8 +1,6 @@
 ---
 title: South African Milk Tart
 tags: ["dessert", "baking"]
-featuredImage: ../images/south-african-milk-tart.jpg
-description: A creamy, custardy tart dusted with cinnamon that's beloved across South Africa for very good reason.
 ---
 
 ## Ingredients

@@ -1,8 +1,6 @@
 ---
 title: Asian Salmon in foil
 tags: ["entree"]
-featuredImage: ../images/asian-salmon.webp
-description: Salmon wrapped in foil like a delicious secret, emerging caramelized and sticky with honey-ginger magic.
 ---
 
 ## Ingredients

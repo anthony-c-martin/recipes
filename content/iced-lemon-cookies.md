@@ -1,8 +1,6 @@
 ---
 title: Iced Lemon Cookies
 tags: ["baking"]
-featuredImage: ../images/iced-lemon-cookies.webp
-description: Soft, crescent-shaped lemon cookies with a sweet glaze that taste like sunshine in cookie form.
 ---
 
 ## Ingredients

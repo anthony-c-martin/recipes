@@ -1,8 +1,6 @@
 ---
 title: Gallo Pinto
 tags: ["side"]
-featuredImage: ../images/gallo-pinto.jpg
-description: Costa Rica's beloved rice-and-beans breakfast, brought to life with a fragrant sofrito and a splash of Salsa Lizano that makes it unmistakably tico.
 ---
 
 ## Ingredients

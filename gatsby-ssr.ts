@@ -11,10 +11,14 @@ const ssr: GatsbySSR = {
           __html: `
 void function() {
   function updateTheme() {
-    const bsTheme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
-    document.documentElement.setAttribute("data-bs-theme", bsTheme);
+    const param = new URLSearchParams(window.location.search).get("clawpilotTheme");
+    const theme = param === "light" || param === "dark"
+      ? param
+      : window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+    document.documentElement.setAttribute("data-theme", theme);
   }
   
+  updateTheme();
   window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change", updateTheme)
   window.addEventListener("DOMContentLoaded", updateTheme);
 }()

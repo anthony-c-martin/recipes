@@ -1,8 +1,6 @@
 ---
 title: Yorkshire Puddings
 tags: ["side", "baking"]
-featuredImage: ../images/yorkshire-puddings.jpg
-description: Puffy, golden vessels perfect for catching gravy, and the non-negotiable companion to any proper British roast.
 ---
 
 ## Ingredients

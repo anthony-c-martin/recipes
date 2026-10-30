@@ -18,7 +18,6 @@ const RecipeTemplate: React.FC<Props> = ({ data }) => {
           <p>{post.frontmatter.date}</p>
         </header>
         <section dangerouslySetInnerHTML={{ __html: post.html }} />
-        <footer></footer>
       </article>
     </Layout>
   )
@@ -29,7 +28,7 @@ export const Head: React.FC<Props> = ({ data }) => {
   return (
     <Seo
       title={post.frontmatter.title}
-      description={post.frontmatter.description || post.excerpt}
+      description={post.excerpt}
     />
   )
 }
@@ -50,7 +49,6 @@ export const pageQuery = graphql`
       frontmatter {
         title
         date(formatString: "MMMM DD, YYYY")
-        description
       }
     }
   }

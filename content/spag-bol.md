@@ -1,8 +1,6 @@
 ---
 title: Spaghetti Bolognese
 tags: ["entree"]
-featuredImage: ../images/spag-bol.jpg
-description: A hearty meat sauce slow-cooked to perfection, ready to coat your spaghetti in Italian comfort.
 ---
 
 ## Ingredients

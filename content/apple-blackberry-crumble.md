@@ -1,8 +1,6 @@
 ---
 title: Apple & Blackberry Crumble
 tags: ["dessert", "baking"]
-featuredImage: ../images/apple-blackberry-crumble.jpg
-description: A gloriously crumbly crown atop a jammy fruit filling that'll have you fighting over the last spoonful.
 ---
 
 ## Ingredients

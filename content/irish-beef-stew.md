@@ -1,8 +1,6 @@
 ---
 title: Irish Beef Stew
 tags: ["entree"]
-featuredImage: ../images/irish-beef-stew.webp
-description: Tender beef chunks swimming in Guinness-enriched gravy with bacon and vegetables – pure Irish comfort in a bowl.
 ---
 
 ## Ingredients

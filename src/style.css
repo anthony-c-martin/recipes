@@ -1,42 +1,87 @@
-.recipe-card {
-  text-decoration: none;
-  color: inherit;
-  flex: 1 1 18rem;
-  max-width: 36rem;
-  transition: background-color 0.2s ease-in-out;
-  &:hover {
-    background-color: var(--bs-primary-bg-subtle);
+@import "tailwindcss";
+
+@theme inline {
+  --color-page: var(--cp-bg-elevated);
+  --color-surface: var(--cp-surface);
+  --color-ink: var(--cp-text);
+  --color-muted: var(--cp-text-soft);
+  --color-line: var(--cp-border);
+  --color-accent: var(--cp-accent);
+  --color-accent-hover: var(--cp-accent-hover);
+  --color-accent-soft: var(--cp-accent-soft);
+  --font-sans: "Segoe UI", Aptos, Calibri, -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-display: Georgia, "Times New Roman", serif;
+}
+
+@layer base {
+  :root {
+    color-scheme: light;
+    --cp-bg: #f7f4ef;
+    --cp-bg-elevated: #fcfbf8;
+    --cp-surface: #ffffff;
+    --cp-surface-soft: #f5f5f5;
+    --cp-border: #dedede;
+    --cp-border-strong: #919191;
+    --cp-text: #242424;
+    --cp-text-muted: #5c5c5c;
+    --cp-text-soft: #6f6f6f;
+    --cp-accent: #b11f4b;
+    --cp-accent-hover: #9a1a41;
+    --cp-accent-soft: rgba(177, 31, 75, 0.08);
+    --cp-accent-fg: #ffffff;
+    --cp-success: #16a34a;
+    --cp-danger: #dc2626;
+    --cp-warning: #f59e0b;
+    --cp-link: #0078d4;
+    --cp-shadow: 0 18px 48px rgba(0, 0, 0, 0.12);
+    --cp-overlay: rgba(255, 255, 255, 0.8);
+    --cp-panel: rgba(255, 255, 255, 0.86);
+    --cp-panel-strong: rgba(255, 255, 255, 0.96);
+    --cp-sheen: rgba(255, 255, 255, 0.55);
+    --cp-highlight: rgba(177, 31, 75, 0.12);
   }
-  
-  /* Style for cards with background images */
-  &[style*="background-image"] {
-    /* position: relative; */
-    
-    &::before {
-      content: '';
-      position: absolute;
-      top: 0;
-      left: 0;
-      right: 0;
-      bottom: 0;
-      background-color: rgba(255, 255, 255, 0);
-      transition: background-color 0.3s ease-in-out;
-      pointer-events: none;
-      border-radius: inherit;
-    }
-    
-    &:hover::before {
-      background-color: rgba(255, 255, 255, 0.3);
-    }
-    
-    .card-title,
-    .card-text {
-      text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.8);
-    }
-    
-    .card-footer {
-      background-color: rgba(0, 0, 0, 0.6);
-      border-top-color: rgba(255, 255, 255, 0.2);
-    }
+  html[data-theme="dark"] {
+    color-scheme: dark;
+    --cp-bg: #3d3b3a;
+    --cp-bg-elevated: #343231;
+    --cp-surface: #292929;
+    --cp-surface-soft: #2e2e2e;
+    --cp-border: #474747;
+    --cp-border-strong: #5f5f5f;
+    --cp-text: #dedede;
+    --cp-text-muted: #919191;
+    --cp-text-soft: #b0b0b0;
+    --cp-accent: #fd8ea1;
+    --cp-accent-hover: #fb7b91;
+    --cp-accent-soft: rgba(253, 142, 161, 0.14);
+    --cp-accent-fg: #1a1a1a;
+    --cp-success: #4ade80;
+    --cp-danger: #f87171;
+    --cp-warning: #fbbf24;
+    --cp-link: #4da6ff;
+    --cp-shadow: 0 18px 48px rgba(0, 0, 0, 0.32);
+    --cp-overlay: rgba(41, 41, 41, 0.88);
+    --cp-panel: rgba(41, 41, 41, 0.72);
+    --cp-panel-strong: rgba(41, 41, 41, 0.96);
+    --cp-sheen: rgba(255, 255, 255, 0.04);
+    --cp-highlight: rgba(253, 142, 161, 0.12);
   }
+  body { @apply bg-page font-sans text-ink leading-relaxed; }
+  a:focus-visible, button:focus-visible { @apply outline-2 outline-offset-4 outline-accent; }
+  main > article { @apply mx-auto my-12 max-w-2xl wrap-anywhere; }
+  article h1, article h2, article h3 { @apply font-display font-normal leading-tight; }
+  article h1 { @apply mb-4 text-4xl; }
+  article h2 { @apply mt-8 mb-4 text-3xl; }
+  article h3 { @apply mt-6 mb-3 text-2xl; }
+  article header { @apply mb-8 border-b border-line pb-5; }
+  article header p { @apply text-sm text-muted; }
+  article p { @apply mb-4; }
+  article ul { @apply mb-6 list-disc pl-6; }
+  article ol { @apply mb-6 list-decimal pl-6; }
+  article li { @apply mb-2; }
+  article a { @apply text-accent underline underline-offset-4; }
+  article blockquote { @apply my-6 border-l-2 border-accent pl-5 text-muted; }
+  article hr { @apply my-8 border-line; }
+  article table { @apply my-6 block max-w-full overflow-x-auto text-left; }
+  article th, article td { @apply border-b border-line px-3 py-2; }
 }

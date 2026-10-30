@@ -1,8 +1,6 @@
 ---
 title: Roast potatoes
 tags: ["side"]
-featuredImage: ../images/roast-potatoes.jpg
-description: Crispy-on-the-outside, fluffy-on-the-inside roasties that are quite possibly the pinnacle of potato achievement.
 ---
 
 ## Ingredients

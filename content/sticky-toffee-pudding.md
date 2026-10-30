@@ -1,8 +1,6 @@
 ---
 title: Sticky Toffee Pudding
 tags: ["dessert", "baking"]
-featuredImage: ../images/sticky-toffee-pudding.jpg
-description: A moist date-studded cake drowning in buttery toffee sauce, because subtlety is overrated.
 ---
 
 ## Ingredients

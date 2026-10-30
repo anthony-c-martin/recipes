@@ -1,8 +1,6 @@
 ---
 title: Tarte Tatin
 tags: ["dessert", "baking"]
-featuredImage: ../images/tarte-tatin.jpg
-description: Golden apples nestled in buttery caramel on crisp puff pastry, flipped upside down for a little kitchen theatre.
 ---
 
 ## Ingredients

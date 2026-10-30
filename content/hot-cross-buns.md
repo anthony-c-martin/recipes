@@ -1,8 +1,6 @@
 ---
 title: Hot Cross Buns
 tags: ["baking"]
-featuredImage: ../images/hot-cross-buns.jpg
-description: Spiced, fruity buns topped with a signature cross, because Easter needed a carb-based mascot.
 ---
 
 ## Ingredients

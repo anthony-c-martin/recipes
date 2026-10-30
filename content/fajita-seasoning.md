@@ -1,8 +1,6 @@
 ---
 title: Fajita Seasoning
 tags: ["seasoning"]
-featuredImage: ../images/fajita-seasoning.jpg
-description: A zippy spice blend that turns ordinary chicken into sizzling fajita filling faster than you can say "más, por favor."
 ---
 
 ## Ingredients

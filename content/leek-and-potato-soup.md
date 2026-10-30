@@ -1,8 +1,6 @@
 ---
 title: Leek and Potato Soup
 tags: ["soup"]
-featuredImage: ../images/leek-and-potato-soup.jpg
-description: Silky, creamy soup that proves the humble potato and leek combo can be utterly elegant.
 ---
 
 ## Ingredients

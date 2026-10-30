@@ -1,8 +1,6 @@
 ---
 title: Sausage Rolls
 tags: ["baking"]
-featuredImage: ../images/sausage-rolls.jpg
-description: Flaky puff pastry wrapped around seasoned sausage meat – the hand-held snack that disappeared five minutes after you made it.
 ---
 
 ## Ingredients

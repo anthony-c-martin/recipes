@@ -1,8 +1,6 @@
 ---
 title: Chocolate Chip Cookies
 tags: ["baking"]
-featuredImage: ../images/chocolate-chip-cookies.webp
-description: Crispy-edged, chewy-centered perfection studded with chocolate chips and featuring the secret weapon of browned butter.
 ---
 
 ## Ingredients

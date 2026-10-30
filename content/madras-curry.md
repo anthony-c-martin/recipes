@@ -1,8 +1,6 @@
 ---
 title: Madras curry
 tags: ["entree"]
-featuredImage: ../images/madras-curry.jpg
-description: A fiery, tomato-rich curry that brings the heat and complexity of your favorite Indian restaurant right to your kitchen.
 ---
 
 ## Ingredients

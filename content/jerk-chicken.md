@@ -1,8 +1,6 @@
 ---
 title: Jerk Chicken
 tags: ["entree"]
-featuredImage: ../images/jerk-chicken.jpg
-description: Jamaican chicken marinated in a fiery, aromatic blend of scotch bonnets and spices that'll transport you to the Caribbean.
 ---
 
 ## Ingredients

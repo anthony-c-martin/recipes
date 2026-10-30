@@ -1,8 +1,6 @@
 ---
 title: Curry base
 tags: ["sauce"]
-featuredImage: ../images/curry-base.webp
-description: The secret weapon of restaurant-style curries, a fragrant base that transforms into any curry you desire.
 ---
 
 ## Ingredients

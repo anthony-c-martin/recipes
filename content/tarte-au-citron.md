@@ -1,8 +1,6 @@
 ---
 title: Tarte au Citron
 tags: ["dessert", "baking"]
-featuredImage: ../images/tarte-au-citron.webp
-description: A French lemon tart with a buttery crust and silky-smooth filling that's perfectly balanced between sweet and tart.
 ---
 
 ## Ingredients

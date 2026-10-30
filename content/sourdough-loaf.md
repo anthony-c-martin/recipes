@@ -1,8 +1,6 @@
 ---
 title: Sourdough Loaf
 tags: ["baking"]
-featuredImage: ../images/sourdough-loaf.avif
-description: A crusty, tangy loaf born from wild yeast and patience, rewarding you with the most satisfying crackle when you slice it.
 ---
 
 ## Ingredients

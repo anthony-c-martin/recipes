@@ -1,8 +1,6 @@
 ---
 title: Nora's Breakfast Potatoes
 tags: ["breakfast", "side"]
-featuredImage: ../images/noras-breakfast-potatoes.jpg
-description: Crispy, golden potato cubes seasoned with cumin and roasted garlic magic – breakfast's best supporting actor.
 ---
 
 ## Ingredients

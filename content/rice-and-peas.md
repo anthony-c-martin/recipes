@@ -1,8 +1,6 @@
 ---
 title: Rice & Peas
 tags: ["side"]
-featuredImage: ../images/rice-and-peas.jpg
-description: Coconut-scented Caribbean rice with beans that's way more exciting than the name suggests.
 ---
 
 ## Ingredients
