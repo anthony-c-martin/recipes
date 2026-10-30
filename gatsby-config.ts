@@ -86,7 +86,7 @@ const config: GatsbyConfig = {
         short_name: `Ant's Recipes`,
         start_url: `/`,
         background_color: `#ffffff`,
-        theme_color: `#663399`,
+        theme_color: `#343231`,
         display: `standalone`,
         icon: `images/glizzy.png`, // This path is relative to the root of the site.
       },
